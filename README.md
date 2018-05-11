@@ -1,2 +1,3 @@
 # Hello-world2
-Learning how to use Git Hub 
+Programming using Java and Python 
+classes and work 
